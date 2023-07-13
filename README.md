@@ -11,3 +11,6 @@ The system uses an Arduino,alcohol sensor and buzzer. The Arduino (microcontroll
 - Motor
 - Power supply
 - Buzzer
+
+
+Authors : [Shantanu Pal](https://github.com/Shan82181)
